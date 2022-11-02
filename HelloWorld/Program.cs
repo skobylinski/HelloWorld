@@ -18,6 +18,7 @@ namespace HelloWorld
             const double PI_NUMBER = 3.14;
             Console.WriteLine("Hello, World!");
             Console.WriteLine("Nazywam się Sebastian Kobyliński");
+            Console.WriteLine("Cześć Wam");
             if (PI_NUMBER >2)
             {
             }
